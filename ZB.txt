@@ -523,6 +523,8 @@ CCTV4K,http://hls.ye23.vip/dl/4k.cctv.php
 CCTV8K,http://159.75.85.63:8654/xx8k50fps.php
 
 频道,#genre#
+
+
 1，http://123.7.110.43:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 2，http://123.7.110.43:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 3，http://123.7.110.43:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -623,5 +625,3 @@ CCTV8K,http://159.75.85.63:8654/xx8k50fps.php
 98，http://123.7.110.43:9901/tsfile/live/0098_1.m3u8?key=txiptv&playlive=1&authid=0
 99，http://123.7.110.43:9901/tsfile/live/0099_1.m3u8?key=txiptv&playlive=1&authid=0
 100，http://123.7.110.43:9901/tsfile/live/0100_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
