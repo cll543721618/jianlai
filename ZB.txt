@@ -15,7 +15,7 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212257
 
 CCTV6,http://123.7.110.43:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://219.145.93.74:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0 
-CCTV7,http://123.7.110.43:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://123.7.110.43:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://219.145.93.74:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://61.163.166.128:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://119.36.19.91:59901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
