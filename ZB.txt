@@ -1,4 +1,4 @@
-
+7
 精选央视台,#genre#
 CCTV-1 综合,http://60.255.120.30:89/live2/live2.m3u8
 CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -53,7 +53,7 @@ CCTV-16 4K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 海峡卫视,https://live6.fjtv.net/haixiapd/playlist.m3u8?_upt=09fc9b171704954597
 
 精选电影,#genre#
-CHC高清电影频道,https://h5cdn404.kylintv.tv/live/chcmoviehd_iphone.m3u8
+
 
 精选数字电视,#genre#
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
@@ -119,7 +119,7 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 海峡卫视,https://live6.fjtv.net/haixiapd/playlist.m3u8?_upt=523aa1a71705118183
 
 电影,#genre#
-CHC高清电影频道,https://h5cdn404.kylintv.tv/live/chcmoviehd_iphone.m3u8
+
 
 数字电视,#genre#
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
