@@ -1,14 +1,6 @@
-欧歌分享,#genre#
-欧歌免费分享,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
-关注公众号欧歌APP,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
-QQ频道欧歌API,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
-接口nxog.top,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
-关注公众号欧歌APP,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-QQ频道欧歌API,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-接口nxog.top,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-开通IP6观看,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
-欧歌免费分享,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
-06-02整理,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
+！注意事项！,#genre#
+*部分源需开启ipv6*
+
 央视频道,#genre#
 CCTV1综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2财经,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
