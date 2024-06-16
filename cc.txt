@@ -1,11 +1,8 @@
 卫视直播,#genre#
 三沙卫视,https://m3m.1vkx.cn/common/maomi/maomi/ny_4xccpmfr/hls/1/index.m3u8
 东南卫视,https://m3m.1vkx.cn/common/maomi/maomi/ny_mgmkvrscm/hls/1/index.m3u8
-东南卫视,https://m3m.1vkx.cn/common/maomi/maomi/ny_svxdqrqd/hls/1/index.m3u8
+南卫视,https://m3m.1vkx.cn/common/maomi/maomi/ny_svxdqrqd/hls/1/index.m3u8
 内蒙古卫视,https://m3m.1vkx.cn/common/maomi/maomi/ny_s2yhtngj/hls/1/index.m3u8
 山西卫视,https://m3m.1vkx.cn/common/maomi/maomi/ny_s2tyfgbn/hls/1/index.m3u8
 广东卫视,https://m3m.1vkx.cn/common/maomi/maomi/ny_xey86aqm/hls/1/index.m3u8
-广东卫视,https://m3m.1vkx.cn/common/maomi/maomi/ny_s56wwre4/hls/1/index.m3u8
-山西卫视,https://m3m.1vkx.cn/common/maomi/maomi/ny_4xccpmfr/hls/1/index.m3u8
-广东卫视,https://m3m.1vkx.cn/common/maomi/maomi/ny_xey86aqm/hls/1/index.m3u8
-广东卫视,https://m3m.1vkx.cn/common/maomi/maomi/ny_s56wwre4/hls/1/index.m3u8
+东卫视,https://m3m.1vkx.cn/common/maomi/maomi/ny_s56wwre4/hls/1/index.m3u8
