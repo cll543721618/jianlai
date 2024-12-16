@@ -4,7 +4,7 @@
       "id": "49ba0217-8864-47f5-a324-62478b9cd773", // id唯一值不可重复[uuidv4]
       "name": "Parse", // 名称[string]
       "type": 1, // 类型[number | 0:web-1:json]
-      "url": "https://mirror.ghproxy.com/https://github.com/cll543721618/jianlai/raw/main/dd.json", // 解析源地址[string]
+      "url": "https://mirror.ghproxy.com/https://github.com/cll543721618/jianlai/raw/main/duo.json", // 解析源地址[string]
       "isActive": true // 是否启用[boolean | true启用-false禁用]
     }
   ],
