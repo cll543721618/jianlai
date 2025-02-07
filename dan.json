@@ -1,10 +1,10 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt;md5;c4745a1b57105d124cf1b429eba5d4bf",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738772255159/f0206.txt;md5;77857b24f2d062790ba1e556078f1ea6",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆",
-      "name": "菜菜",
+      "key": "菜菜",
+      "name": "菜菜观影",
       "type": 3,
       "api": "csp_DouDou",
       "indexs": 1,
@@ -29,7 +29,7 @@
     },
     {
       "key": "YGP",
-      "name": "菜菜荐影┃预告片",
+      "name": "🚀叨观荐影┃预告片",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -170,16 +170,6 @@
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "AppSj",
-      "name": "👒视界┃多线",
-      "type": 3,
-      "api": "csp_AppSj",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -633,6 +623,15 @@
       }
     },
     {
+      "key": "wx",
+      "name": "公众号：神秘的哥哥们",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "fan",
       "name": "导航 www.饭太硬.com",
       "type": 3,
@@ -651,7 +650,7 @@
       "changeable": 0
     }
   ],
-  "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
+  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738054786827/wushi3.gif",
   "lives": [
     {
       "name": "牛播一（仅新版影视仓/ok影视）",
@@ -659,14 +658,7 @@
       "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.iill.top/logo/{name}.png"
-    },
-    {
-      "name": "IPV4",
-      "type": 0,
-      "url": "https://ghfast.top/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt",
-      "playerType": 1,
-      "logo": "https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
+      "logo": "https://epg.v1.mk/logo/{name}.png"
     },
     {
       "name": "范明明",
