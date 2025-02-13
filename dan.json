@@ -249,7 +249,7 @@
 		{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
 		{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 		{"category":4,"name":"mediacodec-hevc","value":"1"},
-		{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+		{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}]
 
 //**本接口免费分享给小白测试和学习使用，请勿用于违法用途，如有冒犯请联系删除，谨防上当受骗。<请勿相信视频中广告>
 }
