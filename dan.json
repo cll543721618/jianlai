@@ -77,7 +77,7 @@
 
 {"key":"大师兄","name":"🧿大师┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
 
-{"key":"疯狗","name":"🧿疯狗┃影视","type":3,"api":"csp_XBPQ","ext":{"线路数组":"page-header\">&&</div>","播放数组":"list-unstyledrowtext-centerff-playurl-lineff-playurl\"&&</ul>","分类url":"https://m.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-addtime-p-{catePg}.html;;d0","分类":"电视剧$2#电影$1#动漫$3#综艺$4"}
+{"key":"疯狗","name":"🧿疯狗┃影视","type":3,"api":"csp_XBPQ","ext":{"线路数组":"page-header\">&&</div>","播放数组":"list-unstyledrowtext-centerff-playurl-lineff-playurl\"&&</ul>","分类url":"https://m.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-addtime-p-{catePg}.html;;d0","分类":"电视剧$2#电影$1#动漫$3#综艺$4"},
  {
       "key": "聚合直播",
       "name": "📽️聚合┃直播",
