@@ -1,11 +1,11 @@
 {
-  "spider": "https://ghfast.top/https://raw.githubusercontent.com/cll543721618/jianlai/main/cc.jar",
+  "spider": "https://11256.kstore.space/lib/qxyc.jar",
   "wallpaper": "自用测试，禁止传播",
   "lives": [
     {
       "name": "菜菜",
       "type": 0,
-      "url": "./lib/a.txt",
+      "url": "https://11256.kstore.space/lib/a.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -14,7 +14,7 @@
     {
       "name": "菜菜2",
       "type": 0,
-      "url": "./lib/iptv.txt",
+      "url": "https://11256.kstore.space/lib/iptv.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
