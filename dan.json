@@ -1390,33 +1390,11 @@
     {
       "name": "线路①",
       "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
       "playerType": 2,
       "ua": "okhttp/3",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name": "IPV6②",
-      "type": 0,
-      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "电影③",
-      "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt",
-      "playerType": 1
-    },
-    {
-      "name": "MTV④",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
-      "playerType": 2,
-      "ua": "okhttp/5.0.0-alpha.14",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "hosts": [
