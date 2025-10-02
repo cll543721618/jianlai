@@ -3,19 +3,143 @@
    {
       "url":
 "https://gitee.com/a-sword-strikes/sword-tomb/raw/master/dan.json",
-      "name": "菜菜"
+      "name": "🚀菜菜"
     },
-    { "url": "http://www.饭太硬.com/tv", "name": "饭太硬" }, 
-{ "url": "http://fan.xxooo.cf/tv", "name": "饭太硬（备用）" }, 
-{ "url": "http://xhww.fun/小米/DEMO.json", "name": "小米" }, 
-{ "url": "http://肥猫.live", "name": "肥猫" },{ "url": "http://tvbox.王二小放牛娃.top", "name": "王二小" }, 
-{ "url": "http://我不是.摸鱼儿.com", "name": "摸鱼儿" }, 
-{ "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" }, 
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" },
-{ "url": "https://100km.top/0", "name": "骚零" }, 
-{ "url": "http://tv.rihou.cc/天天开心", "name": "天天开心" },
-{ "url": "http://rihou.cc:88/荷城茶秀", "name": "荷城茶秀" }, 
-{ "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json", "name": "短剧频道" }, 
-{ "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿频道" }
+    { https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
+      "name": "🚀天微影线"
+    },
+    {
+      "url": "https://11256.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json",
+      "name": "🚀七星影仓"
+    },   
+    {
+      "url": "http://2883.kstore.space/nzk/nzk0722.json",
+      "name": "🚀D佬线路"
+    },
+    {
+      "url": "http://tv.laohu.cool/tvbox.json",
+      "name": "🚀老虎线路"
+    },
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "🚀饭硬专线"
+    },
+   {
+      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+      "name": "🚀喵影视线"
+    },
+    {
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+      "name": "🚀One线路"
+    },
+
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+      "name": "🚀南风线路"
+    },
+    
+        {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "🚀香雅晴线"
+    },
+    
+    {
+      "url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json",
+      "name": "🚀刘伟线路"
+    },
+    
+        {
+      "url": "https://gongdian.top/tvbox/gongdian",
+      "name": "🚀宫殿线路"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
+      "name": "🚀讴歌线路"
+    },
+   {
+      "name": "🚀小虎斑线",
+      "url": "https://hb.xyyh.online/tvbox"
+    },
+
+    {
+      "url": "http://miqk.cc/小米/DEMO.json",
+      "name": "🚀小米线路"
+    },
+    {
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "🚀王二小线"
+    },
+
+    {
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "🚀摸鱼线路"
+    },
+    {
+      "url": "https://6492.kstore.space/xnf/xnf.json",
+      "name": "🚀环宇轩线"
+    },
+
+    {
+      "url": "http://fmys.top/fmys.json",
+      "name": "🚀驸马线路"
+    },
+
+        {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+      "name": "🚀多多线路"
+    },
+    {
+      "url": "http://hello.肥猫.com",
+      "name": "🚀肥猫线路"
+    },
+       {
+      "name": "🚀小马线路",
+      "url": "https://szyyds.cn/tv/x.json"
+    },
+    {
+      "name": "🚀俊佬在线",
+      "url": "http://home.jundie.top:81/top98.json"
+    },
+        {
+      "name": "🚀小虎斑线",
+      "url": "http://hb.小虎斑.site:25252/仅供测试"
+    },
+    {
+      "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
+      "name": "🚀分享者线"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+      "name": "🚀老刘线路"
+    },
+            {
+      "url": "https://chuanshuo.77blog.cn/tv.json",
+      "name": "🚀传说线路"
+    },
+        {
+      "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
+      "name": "🚀蓝天线路"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "🚀高天流云"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "🚀俊佬线路"
+    },
+
+    {
+      "url": "https://xn--8owq8u.com/tv/",
+      "name": "🚀毒盒线路"
+    },
+
+    {
+      "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
+      "name": "🚀青龙影线"
+    },
+    {
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "name": "🚀动漫大全"}
   ]
 }
