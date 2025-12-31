@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "国庆红旗漫卷，中秋月满人间。双节快乐！",
+      "name": "马蹄声声潮前跃，万马踏青迎春来",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
